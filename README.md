@@ -32,7 +32,6 @@ lift and drag trends.
 **Topics:** External aerodynamics, immersed-boundary methods,
 pressure correction, vorticity, and aerodynamic force trends.
 
-[View Experiment 1](Experiment-1-Airfoil/Experiment1_23BME012.pdf)
 
 ---
 
@@ -50,8 +49,6 @@ and cold laminar streams separated by a conducting wall.
 
 **Topics:** Conjugate heat transfer, convection-diffusion,
 solid-wall conduction, temperature contours, and convergence.
-
-[View Experiment 2](Experiment-2-Heat-Exchanger/Experiment2_23BME012.pdf)
 
 ---
 
@@ -71,7 +68,6 @@ in a simplified rotating annular passage.
 **Topics:** Rotating flows, centrifugal pressure generation,
 pump performance, thermal transport, and residual convergence.
 
-[View Experiment 3](Experiment-3-Centrifugal-Pump/Experiment3_23BME012.pdf)
 
 ---
 
@@ -89,7 +85,6 @@ a circular cylinder and estimate the Strouhal number.
 **Topics:** Lattice Boltzmann method, unsteady wakes, lift and
 drag histories, vortex streets, and Strouhal number estimation.
 
-[View Experiment 4](Experiment-4-Vortex-Shedding/Experiment4_23BME012.pdf)
 
 ---
 
@@ -110,7 +105,6 @@ the analytical series solution.
 **Topics:** Numerical stability, time integration, Fourier number,
 error analysis, and comparison with analytical solutions.
 
-[View Experiment 5](Experiment-5-Couette-Flow/Experiment5_23BME012.pdf)
 
 ---
 
@@ -130,7 +124,6 @@ an analytical solution.
 **Topics:** Steady-state heat conduction, finite differences,
 iterative solvers, convergence rate, and grid-size effects.
 
-[View Experiment 6](Experiment-6-Heat-Conduction/Experiment6_23BME012.pdf)
 
 ---
 
