@@ -300,6 +300,9 @@ The repository covers a range of numerical techniques and engineering applicatio
 # Author
 
 **Rudra Patel**
-
 B.Tech – Mechanical Engineering,
+Pandit Deendayal Energy University (PDEU), India
+
+**Dr. Anirudh Kulkarni**
+Assistant Professor - Mechanical Engineering,
 Pandit Deendayal Energy University (PDEU), India
